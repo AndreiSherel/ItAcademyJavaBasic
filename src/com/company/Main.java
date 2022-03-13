@@ -33,5 +33,7 @@ public class Main {
             System.out.println("Неверно введена операция");
 
         }
+        System.out.println("Hello World");
+        System.out.println("My name is Andrei Sherel");
     }
 }
